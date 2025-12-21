@@ -74,7 +74,7 @@ Detail-oriented **Software Engineer** with strong foundations in
 
 - Built secure JavaFX app using **AES encryption** & **MVC architecture**
 - Implemented encrypted **JDBC CRUD operations**
-- ⚡ Reduced data fetch latency by **30%**
+- ⚡ Reduced data fetch latency by **40%**
 - 👥 Led a **4-member Agile team** (scrum, code reviews)
 
 ---
