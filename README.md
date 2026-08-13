@@ -302,35 +302,29 @@ allocation strategies, fragmentation, and memory safety.
 ## 🌐 Connect With Me
 
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/ranit-saha-b58984225/" target="_blank">
+  <a href="https://www.linkedin.com/in/ranit-saha-b58984225/">
     <img
       src="https://skillicons.dev/icons?i=linkedin"
-      width="44"
+      width="48"
       alt="LinkedIn"
     />
   </a>
-
   &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://github.com/Ranit-cpu" target="_blank">
+  <a href="https://github.com/Ranit-cpu">
     <img
       src="https://skillicons.dev/icons?i=github"
-      width="44"
+      width="48"
       alt="GitHub"
     />
   </a>
-
   &nbsp;&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.instagram.com/_.r.a.n.i.t._003/" target="_blank">
+  <a href="https://www.instagram.com/_.r.a.n.i.t._003/">
     <img
       src="https://skillicons.dev/icons?i=instagram"
-      width="44"
+      width="48"
       alt="Instagram"
     />
   </a>
-
 </p>
 
 ---
