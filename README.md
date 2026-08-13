@@ -119,14 +119,29 @@ Detail-oriented **Software Engineer** with strong foundations in
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranit-cpu&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranit-cpu&layout=compact&theme=tokyonight" height="165"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Ranit-cpu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+    height="170"
+    alt="Ranit's GitHub statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranit-cpu&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+    height="170"
+    alt="Ranit's most used languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranit-cpu&theme=tokyonight" />
+  <img
+    src="https://streak-stats.demolab.com/?user=Ranit-cpu&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Ranit's GitHub streak"
+  />
 </p>
+
 
 ---
 
