@@ -119,8 +119,6 @@ Detail-oriented **Software Engineer** with strong foundations in
 
 ## 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
-
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=Ranit-cpu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
