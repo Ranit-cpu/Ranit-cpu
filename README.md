@@ -121,12 +121,12 @@ Detail-oriented **Software Engineer** with strong foundations in
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ranit-cpu&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api?username=Ranit-cpu&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
     height="170"
     alt="Ranit's GitHub statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranit-cpu&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ranit-cpu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
     height="170"
     alt="Ranit's most used languages"
   />
