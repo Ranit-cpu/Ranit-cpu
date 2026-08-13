@@ -281,7 +281,6 @@ allocation strategies, fragmentation, and memory safety.
     height="170"
     alt="Ranit's GitHub statistics"
   />
-
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ranit-cpu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
     height="170"
@@ -296,8 +295,6 @@ allocation strategies, fragmentation, and memory safety.
     alt="Ranit's GitHub streak"
   />
 </p>
-
----
 
 ## 🌐 Connect With Me
 
